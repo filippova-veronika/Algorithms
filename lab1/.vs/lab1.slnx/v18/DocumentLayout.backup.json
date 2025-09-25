@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Filippova\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A295F2C-06DC-409F-B98B-9BDBE6D28E89}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{0A295F2C-06DC-409F-B98B-9BDBE6D28E89}|D:\\Filippova\\Lab1\\main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0A295F2C-06DC-409F-B98B-9BDBE6D28E89}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{0A295F2C-06DC-409F-B98B-9BDBE6D28E89}|solutionrelative:main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Filippova\\lab1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Filippova\\lab1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T08:18:11.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
